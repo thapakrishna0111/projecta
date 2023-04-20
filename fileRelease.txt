@@ -1,1 +1,2 @@
 this is new first releasefile
+this is v1.0 release and will be in effect after sometime
